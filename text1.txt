@@ -1,2 +1,6 @@
 jdsjsssj
+<<<<<<< HEAD
 sdsdsd
+=======
+asdasd
+>>>>>>> jsj
